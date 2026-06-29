@@ -1,0 +1,9 @@
+# FriendsExploit - Joomla JCE Unauthenticated RCE
+# Dependensi utama
+
+PyQt5>=5.15.0
+requests>=2.25.0
+urllib3>=1.26.0
+
+# Opsional (untuk stabilitas tambahan)
+# PyQt5-sip>=12.9.0   # Sudah termasuk saat install PyQt5
